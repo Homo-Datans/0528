@@ -1,6 +1,4 @@
-# 빅데이터분석프로그래밍
-
-### Homo-Datans조
+## 빅데이터분석프로그래밍 (Homo-Datans)
 
 ### Data_info
 | 파일명                                     | 설명                                   | 활용 가능한 인사이트                             |
@@ -29,18 +27,18 @@
 
 
 #### 혼잡 구간 파악
-TB_OD_FLOW + DISTRICT_EMD: 지역별 정류장 간 이동량 분석 <br>
-TBN_STTN_USE: 시간대별 혼잡 정류장 확인
+TB_OD_FLOW + DISTRICT_EMD : 지역별 정류장 간 이동량 분석 <br>
+TBN_STTN_USE : 시간대별 혼잡 정류장 확인
 
 #### 출퇴근 통행 분석
-KSCC_DX_PATTERN_STAT: 출퇴근 집중 시간대 및 주요 OD 경로 <br>
-TBN_PSGR_CARD: 시간대별 카드 이용량
+KSCC_DX_PATTERN_STAT : 출퇴근 집중 시간대 및 주요 OD 경로 <br>
+TBN_PSGR_CARD : 시간대별 카드 이용량
 
 #### 환승 불편 지역 분석
-KSCC_DX_TRNSF_PATH_SUM + TB_TRANS_INFO: 환승 패턴 및 병목 현상 파악
+KSCC_DX_TRNSF_PATH_SUM + TB_TRANS_INFO : 환승 패턴 및 병목 현상 파악
 
 #### 노선 효율성 분석
-TBIS_MS_ROUTE_NODE + TBN_ROUTE_USE: 노선별 수요 대비 공급 (노선 개편 방향 제시)
+TBIS_MS_ROUTE_NODE + TBN_ROUTE_USE : 노선별 수요 대비 공급 (노선 개편 방향 제시)
 
 #### 인구 이동 흐름 및 생활권 추정
-KSCC_DX_TRIP_CHAIN_SUM + TBN_PSGR_PROFILE: 생활 패턴과 지역 간 상호작용 분석
+KSCC_DX_TRIP_CHAIN_SUM + TBN_PSGR_PROFILE : 생활 패턴과 지역 간 상호작용 분석
