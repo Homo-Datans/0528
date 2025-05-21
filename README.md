@@ -29,11 +29,11 @@
 
 
 #### 혼잡 구간 파악
-TB_OD_FLOW + DISTRICT_EMD: 지역별 정류장 간 이동량 분석 \n
+TB_OD_FLOW + DISTRICT_EMD: 지역별 정류장 간 이동량 분석 <br>
 TBN_STTN_USE: 시간대별 혼잡 정류장 확인
 
 #### 출퇴근 통행 분석
-KSCC_DX_PATTERN_STAT: 출퇴근 집중 시간대 및 주요 OD 경로
+KSCC_DX_PATTERN_STAT: 출퇴근 집중 시간대 및 주요 OD 경로 <br>
 TBN_PSGR_CARD: 시간대별 카드 이용량
 
 #### 환승 불편 지역 분석
